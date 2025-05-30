@@ -1,0 +1,30 @@
+[
+    {
+        "ID": "FL001",
+        "Destination": "Jakarta to Bali",
+        "SeatNumber": "12A",
+        "image": "/images/flight-ticket.jpg",
+        "Price": "$120"
+    },
+    {
+        "ID": "FL002",
+        "Destination": "Jakarta to Singapore",
+        "SeatNumber": "15C",
+        "image": "/images/flight-ticket.jpg",
+        "Price": "$250"
+    },
+    {
+        "ID": "FL003",
+        "Destination": "Jakarta to Tokyo",
+        "SeatNumber": "21B",
+        "image": "/images/flight-ticket.jpg",
+        "Price": "$450"
+    },
+    {
+        "ID": "FL004",
+        "Destination": "Jakarta to Malaysia",
+        "SeatNumber": "8D",
+        "image": "/images/flight-ticket.jpg",
+        "Price": "$200"
+    }
+]

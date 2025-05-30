@@ -1,0 +1,17 @@
+{
+  "salesData": {
+    "labels": ["Jan", "Feb", "Mar", "Apr", "May", "Jun"],
+    "data": [82, 95, 78, 110, 98, 105]
+  },
+  "popularRoutes": [
+    { "name": "Jakarta-Bali", "flights": 420 },
+    { "name": "Jakarta-Singapore", "flights": 380 },
+    { "name": "Jakarta-Malaysia", "flights": 350 },
+    { "name": "Jakarta-Tokyo", "flights": 280 }
+  ],
+  "recentBookings": [
+    { "id": "1", "passenger": "John Doe", "route": "Jakarta-Bali", "date": "2024-03-20", "status": "confirmed", "amount": 150 },
+    { "id": "2", "passenger": "Jane Smith", "route": "Jakarta-Singapore", "date": "2024-03-19", "status": "pending", "amount": 320 },
+    { "id": "3", "passenger": "Mike Johnson", "route": "Jakarta-Tokyo", "date": "2024-03-19", "status": "boarding", "amount": 490 }
+  ]
+}
