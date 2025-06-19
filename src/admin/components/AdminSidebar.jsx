@@ -12,7 +12,8 @@ import {
   MdSupervisorAccount,
   MdBusiness,
   MdPhoto,
-  MdAttachMoney
+  MdAttachMoney,
+  MdOpenInNew 
 } from 'react-icons/md';
 
 const menuItems = [
@@ -54,6 +55,17 @@ const AdminSidebar = () => {
             <span>{item.text}</span>
           </NavLink>
         ))}
+        
+        {/* External Guest App Link */}
+        <a
+          href="https://flynix-apps-guest.vercel.app/"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="flex items-center space-x-3 px-4 py-3 rounded-lg transition-colors text-lg font-semibold text-white/80 hover:bg-[#4a90e2]/50"
+        >
+          <MdOpenInNew className="text-xl" />
+          <span>Guest App</span>
+        </a>
       </nav>
     </div>
   );
