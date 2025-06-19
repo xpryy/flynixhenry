@@ -12,4 +12,11 @@
     src: url('/fonts/Poppins-Regular.ttf');
 }
 
+@font-face {
+  font-family: 'Plaster';
+  src: url('/fonts/Plaster-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
 /* The @theme block with CSS variables is removed because it is not standard CSS and may cause issues */

@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "price": "4000",
+    "type": "First Class",
+    "services": "Kursi tidur datar, Makanan gourmet, Akses lounge eksklusif, Bagasi ekstra, Amenity kit mewah",
+    "created_at": "2025-06-12 06:58:53.760903+00"
+  },
+  {
+    "id": "2", 
+    "price": "2500",
+    "type": "Business",
+    "services": "Kursi recliner, Makanan berkualitas, Akses lounge bisnis, Bagasi tambahan, Amenity kit standar",
+    "created_at": "2025-06-12 06:58:53.760903+00"
+  },
+  {
+    "id": "3",
+    "price": "1200", 
+    "type": "Economy",
+    "services": "Kursi standar, Makanan ringan, Bagasi sesuai ketentuan, Hiburan umum",
+    "created_at": "2025-06-12 06:58:53.760903+00"
+  },
+  {
+    "id": "4",
+    "price": "1700",
+    "type": "Premium Economy",
+    "services": "Kursi lebih lega, Makanan premium, Bagasi tambahan, Prioritas boarding",
+    "created_at": "2025-06-12 06:58:53.760903+00"
+  },
+  {
+    "id": "5",
+    "price": "800",
+    "type": "Promo",
+    "services": "Kursi standar, Makanan ringan, Bagasi sesuai promo, Layanan pramugari standar",
+    "created_at": "2025-06-12 06:58:53.760903+00"
+  }
+]

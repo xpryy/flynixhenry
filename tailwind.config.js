@@ -5,7 +5,11 @@ export default {
     "./src/**/*.{js,jsx,ts,tsx}",
   ],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        'plaster': ['Plaster', 'cursive'],
+      },
+    },
   },
   plugins: [],
 }

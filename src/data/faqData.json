@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1",
+    "question": "Bagaimana cara memesan tiket pesawat di Flynix?",
+    "answer": "Anda dapat memesan tiket pesawat melalui website atau aplikasi Flynix dengan memilih rute, tanggal, dan maskapai yang diinginkan, lalu mengikuti proses pembayaran.",
+    "created_at": "2025-06-12 06:57:44.562395+00"
+  },
+  {
+    "id": "2",
+    "question": "Apa saja metode pembayaran yang tersedia?",
+    "answer": "Flynix menerima pembayaran melalui transfer bank, kartu kredit, e-wallet, dan pembayaran di minimarket.",
+    "created_at": "2025-06-12 06:57:44.562395+00"
+  },
+  {
+    "id": "3",
+    "question": "Bagaimana jika saya ingin membatalkan tiket?",
+    "answer": "Pembatalan tiket dapat dilakukan melalui menu Pesanan Saya. Biaya pembatalan akan mengikuti kebijakan maskapai terkait.",
+    "created_at": "2025-06-12 06:57:44.562395+00"
+  },
+  {
+    "id": "4",
+    "question": "Apakah saya bisa mengubah jadwal penerbangan?",
+    "answer": "Perubahan jadwal dapat dilakukan jika diizinkan oleh maskapai. Silakan hubungi layanan pelanggan Flynix untuk bantuan lebih lanjut.",
+    "created_at": "2025-06-12 06:57:44.562395+00"
+  },
+  {
+    "id": "5",
+    "question": "Bagaimana cara mendapatkan e-ticket setelah pembayaran?",
+    "answer": "E-ticket akan dikirimkan ke email Anda setelah pembayaran berhasil. Anda juga dapat mengunduhnya melalui akun Flynix Anda.",
+    "created_at": "2025-06-12 06:57:44.562395+00"
+  },
+  {
+    "id": "6",
+    "question": "Apakah harga tiket sudah termasuk pajak dan biaya lainnya?",
+    "answer": "Ya, harga tiket yang tertera sudah termasuk pajak dan biaya tambahan lainnya, kecuali dinyatakan berbeda pada halaman pemesanan.",
+    "created_at": "2025-06-12 06:57:44.562395+00"
+  },
+  {
+    "id": "7",
+    "question": "Bagaimana cara menghubungi layanan pelanggan Flynix?",
+    "answer": "Anda dapat menghubungi layanan pelanggan melalui live chat di website, email support@flynix.com, atau telepon ke 0800-123-4567.",
+    "created_at": "2025-06-12 06:57:44.562395+00"
+  }
+]
